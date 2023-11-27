@@ -14,7 +14,7 @@ const Banner = () => {
     dots: true,
     infinite: true,
     autoplay: true,
-    // slidesToShow: 1,
+    slidesToShow: 1,
     slidesToScroll: 1,
     arrows: false,
     beforeChange: (prev, next) => {
